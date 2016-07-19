@@ -7,3 +7,5 @@ feature-branch change
 master change
 
 one more feature
+
+feature 3
