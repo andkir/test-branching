@@ -5,3 +5,5 @@ change
 feature-branch change
 
 master change
+
+one more feature
